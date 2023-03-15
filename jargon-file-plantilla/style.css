@@ -1,0 +1,11 @@
+.background {
+    background-color:rgb(128 199 230) ;
+   }
+.background2 {
+   background-color:rgb(51 158 204) ;  
+   }
+pre {
+     background-color: white;
+     font-weight: bold;
+     font-size: 1rem;
+   }
