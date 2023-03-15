@@ -1,0 +1,36 @@
+h1 {
+    text-transform: capitalize;
+    font-family: sans-serif
+}
+
+body {
+    background-color:rgb(38 140 81);
+    font-size: 150%;
+}
+
+
+
+.nino {
+    font-family:Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    color:white
+}
+
+.golondrinas {
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(255 223 179)
+
+}
+
+.escribir {
+    font-family:monospace;
+    font-style: bold;
+    color:rgb(255 159 26);
+    font-size: 26px;
+
+}
+.numeros {
+    font-family:cursive;
+    color:rgb(230 26 76)
+    
+}

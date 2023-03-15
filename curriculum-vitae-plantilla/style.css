@@ -1,3 +1,29 @@
 h1 { 
     text-align: center;
 }
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(0, 204, 204, 0.471);
+   
+}
+
+ h2 {
+background-color: rgba(1, 141, 141, 0.442);
+text-decoration: underline;
+ }
+
+ pre {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+  }
+
+  .background {
+    background-color: whitesmoke;
+  }
+
+  h3 {
+    
+text-decoration: underline;
+  }
