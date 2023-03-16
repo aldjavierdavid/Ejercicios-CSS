@@ -1,0 +1,72 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(255 235 240);
+    background-image: url(fondos/corazon-2.svg), url(fondos/corazon-1.svg); 
+    background-repeat: repeat-y, repeat-y;
+    background-position: right, left;
+    background-size: 10%;
+}
+
+main {
+    font-size: 20px;
+}
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+pre {
+    font-family:sans-serif;
+    text-align:center
+}
+
+
+
+.first-brown {
+    color:white;
+    background-image: url(fondos/manchas.png);
+    font-weight: bold;
+    border: 2px solid black;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 1px;
+    padding-bottom: 20px;
+    background-position: center;
+}
+.second-rose {
+    color:rgb(255 221 0);
+    background: url(/sonetos-lope-plantilla/fondos/fuego.svg) no-repeat bottom right, url(/sonetos-lope-plantilla/fondos/fuego.svg) no-repeat bottom left, url(fondos/tallos.jpg);
+    font-weight: bold;
+    border: 2px solid black;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 1px
+}
+
+.third-eye {
+    color: rgb(128 0 0);
+    background:url(/sonetos-lope-plantilla/fondos/ojo.svg) no-repeat center, url(fondos/hexagonos.jpg); 
+    font-weight: bold;
+    border: 2px solid black;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    z-index: 3;
+}
+
+.fourth-blue {
+    color:rgb(0 77 6);
+    padding-bottom: 50px;
+    background: url(/sonetos-lope-plantilla/fondos/caballo.svg) repeat-x bottom, url(fondos/estrellas.png);
+    background-size: 100px, auto;
+    font-weight: bold;
+    border: 2px solid black;
+    margin-left: 150px;
+    margin-right: 150px
+    
+}
+
