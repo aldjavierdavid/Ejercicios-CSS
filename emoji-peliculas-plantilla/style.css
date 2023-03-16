@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    
+}
+
+h1 {
+    text-transform: uppercase;
+    color:slateblue;
+
+}
+
+h2 {
+    color:rgb(55, 55, 137)
+
+}
+
+summary {
+    font-size: 50px;
+    
+}
+
+span {
+    background-color: aquamarine;
+
+}
