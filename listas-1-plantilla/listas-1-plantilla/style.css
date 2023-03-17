@@ -9,11 +9,6 @@
 	font-style: normal;
 }
 
-body {
-	font-family: sans-serif;
-	background-color: rgb(225, 225, 225);
-}
-
 [class^="icon-"], [class*=" icon-"] {
 	font-family: 'icomoon';
 	speak: none;
@@ -48,21 +43,4 @@ body {
 }
 .icon-minus:before {
 	content: "\ea0b";
-}
-
-ul {
-	list-style-type: none;
-	
-}
-ul li {
-	width: 10em;
-	font-weight: bold;
-	float: left;
-	margin-right: 1rem;
-	background: #ccffcc;
-	padding: 0.5em 0em;
-	border: dashed 4px;
-	border-color: rgba(56, 56, 181, 0.714);
-	color: rgb(120, 82, 190);	
-	text-align: center;
 }
