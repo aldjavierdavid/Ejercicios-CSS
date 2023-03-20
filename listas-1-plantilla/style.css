@@ -54,10 +54,10 @@ ul {
 	list-style-type: none;
 	
 }
-ul li {
+.list1 li {
 	width: 10em;
 	font-weight: bold;
-	float: left;
+	display: inline-block;
 	margin-right: 1rem;
 	background: #ccffcc;
 	padding: 0.5em 0em;
@@ -66,3 +66,17 @@ ul li {
 	color: rgb(120, 82, 190);	
 	text-align: center;
 }
+
+.list2 li {
+	display: inline-block;
+	margin-right: 1rem;
+	background-color: white;
+	
+
+}
+
+ul.list2 {
+	text-align: center;
+}
+
+
